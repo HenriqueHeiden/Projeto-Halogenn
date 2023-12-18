@@ -26,22 +26,22 @@ post localhost:3333/product </br>
 
 Este projeto foi realizado com as seguintes técnologias:
 - Node.js
-- ReactJS
 - TypeScript
 - Next.js
 - SASS
 - RADIX UI
 - Prisma
 - MongoDB
+
+Deploy
 - Render
 - Vercel
 
 
 ```
+$ Next.JS 14.0.4
 $ Node 18.17.0
 $ NPM 9.6.7
-$ Next.JS 14.0.4
-
 ```
 
 
