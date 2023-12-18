@@ -51,7 +51,7 @@ $ NPM 9.6.7
 
 Como rodar o projeto
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-0076913a54.gif" width="900" />
+<img src="https://i.ibb.co/NsWg6xY/halogenn.gif" width="900" />
 
 
 
