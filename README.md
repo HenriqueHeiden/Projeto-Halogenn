@@ -24,6 +24,26 @@ post localhost:3333/product </br>
     "nota": 1.2 </br>
 } </br>
 
+Este projeto foi realizado com as seguintes técnologias:
+- Node.js
+- ReactJS
+- TypeScript
+- Next.js
+- SASS
+- RADIX UI
+- Prisma
+- MongoDB
+- Render
+- Vercel
+
+
+```
+$ Node 18.17.0
+$ NPM 9.6.7
+$ Next.JS 14.0.4
+
+```
+
 
 <a href="https://freela-nextjs-henriqueheiden.vercel.app"> Link do projeto rodando na vercel </a>
 	
