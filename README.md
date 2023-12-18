@@ -19,7 +19,7 @@ post localhost:3333/product </br>
 
 {    </br>
 	"nome": "Name here", </br>
-    "imagem": "img3", </br>
+    "imagem": "URL", </br>
     "valor": 1200, </br>
     "nota": 1.2 </br>
 } </br>
