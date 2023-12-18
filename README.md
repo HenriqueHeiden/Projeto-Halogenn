@@ -14,15 +14,15 @@
 	npm run dev</br>
 
 <h3>Endpoint</h3>
-get localhost:3333/product
-post localhost:3333/product
+get localhost:3333/product </br>
+post localhost:3333/product </br>
 
-{    
-	"nome": "Name here",
-    "imagem": "img3",
-    "valor": 1200,
-    "nota": 1.2
-}
+{    </br>
+	"nome": "Name here", </br>
+    "imagem": "img3", </br>
+    "valor": 1200, </br>
+    "nota": 1.2 </br>
+} </br>
 
 
 <a href="https://freela-nextjs-henriqueheiden.vercel.app"> Link do projeto rodando na vercel </a>
