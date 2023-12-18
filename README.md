@@ -17,6 +17,9 @@
 get localhost:3333/product </br>
 post localhost:3333/product </br>
 
+"imagem": "bY8xaFrame 1.jpg"
+"imagem": "vTjY7Frame 2.jpg"
+"imagem": "QiE9fFrame 3.jpg"
 {    </br>
 	"nome": "Name here", </br>
     "imagem": "URL", </br>
