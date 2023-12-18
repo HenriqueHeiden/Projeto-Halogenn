@@ -1,0 +1,63 @@
+$shadow-x: 0;
+$shadow-y: 4px;
+$shadow-blur: 4px;
+$shadow-color: rgba(0, 0, 0, 0.4);
+$primary: #F5643DCC;
+$secondary: #A1A1A1;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.box {
+    display: flex;
+    flex-direction: column;
+    width: 23.5rem;
+    height: 16.125rem;
+    margin-top: 4.063rem;
+    margin-bottom: 7.375rem;
+    box-shadow: $shadow-x $shadow-y $shadow-blur $shadow-color;
+    border-radius: 10px;
+
+    @media screen and (max-width: 600px) {
+        display: flex;
+        width: 99%;
+        margin-bottom: 0;
+        margin-top: 43.43px;
+    }
+}
+
+.boxInfo {
+    display: flex;
+    padding: 18px;
+    justify-content: space-between;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.title {
+    font-weight: 500;
+    font-size: 1.125rem;
+    font-family: 'Roboto', sans-serif;
+    color: $primary;
+    line-height: 21.09px;
+}
+
+.note {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: $secondary;
+    line-height: 14.06px;
+}
+
+.price {
+    display: flex;
+    padding-top: 1.25rem;
+    color: $primary;
+    font-weight: 500;
+    font-size: 1.125rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 21.09px;
+}
